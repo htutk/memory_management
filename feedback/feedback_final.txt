@@ -1,0 +1,17 @@
+
+   ===  CSE 374 HW6 Part II Feedback  ===
+
+
+Makefile:  5/5
+
+git log and README:  5/5
+
+Code Quality:  7/10
+(-3) clint output shows significant formatting errors
+
+Memory Management:  45/45
+
+Bench Program and Test:  15/20
+(-5) arguments parsing not implemented correctly.
+
+Total:  77/85

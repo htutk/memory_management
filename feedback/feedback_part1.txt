@@ -1,0 +1,21 @@
+
+   ===  CSE 374 HW6 Part I Feedback  ===
+
+
+Makefile:   1/1
+
+5 impl. files and 2 header files and 1 user/test  program (bench.c):   4/4
+
+Freelist structure definition in mem_impl.h:  0/2
+
+Function prototypes in appropriate header files:  2/2
+
+bench.c should include only mem.h and not mem_impl.h:  1/1
+
+Running make returns no errors or warnings:  1/1
+
+Repo tagged correctly:   2/2
+
+git commits by both partners:  1/1
+
+Total: 14/14

@@ -1,0 +1,11 @@
+# file to ignore
+
+# vscode folder
+.vscode/
+
+# ignore *.o or *~
+*.o
+*~
+bench
+output.txt
+clint.py
